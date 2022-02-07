@@ -2,7 +2,7 @@
 
 *Resolvendo problemas com Python* é um livro sobre intuição matemática e lógica de programação.
 
-Para sugerir alguma mudança, abra um issue explicando o que deve ser mudado e o motivo das alterações. Caso seja algum problema simples, como erro de gramática ou ortografia, sinta-se à vontade de fazer um fork do repositório sem antes abrir um issue. Antes de contribuir, leia a seção (Detalhes para contribuidores)[#detalhes-para-contribuidores]
+Para sugerir alguma mudança, abra um issue explicando o que deve ser mudado e o motivo das alterações. Caso seja algum problema simples, como erro de gramática ou ortografia, sinta-se à vontade de fazer um fork do repositório sem antes abrir um issue. Antes de contribuir, leia a seção [Detalhes para contribuidores](#detalhes-para-contribuidores)
 
 Para ler o livro, [clique aqui](https://rpcp.puida.xyz)
 
