@@ -1,10 +1,10 @@
 ---
 layout: full-width
 title: Índice
-permalink: /indice
+permalink: /indice/
 ---
 
 # Índice
 
-- [Prefácio](book/prefacio)
+- [Prefácio](/book/prefacio)
 - [Como abordar um problema](/book/como-abordar-um-problema)

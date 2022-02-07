@@ -13,4 +13,4 @@ O livro pode eventualmente conter erros de gramática, ortografia e até mesmo e
 
 Com as informações iniciais encerradas, podemos começar!
 
-**[Próximo capítulo](como-abordar-um-problema)**
+**[Próximo capítulo](/book/como-abordar-um-problema)**
