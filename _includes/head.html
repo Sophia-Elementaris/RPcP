@@ -1,0 +1,12 @@
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <!-- KaTeX loader -->
+    {% if page.katex %}
+    <link rel="stylesheet" href="/assets/plugins/katex.0.15.2/katex.min.css">
+    {% endif %}
+
+    <link rel="stylesheet" type="text/css" href="{{ "/css/tufte.css" | prepend: site.baseurl }}">
+    <link rel="canonical" href="{{ page.url  | replace: 'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+</head>

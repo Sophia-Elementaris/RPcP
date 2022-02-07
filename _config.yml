@@ -1,0 +1,10 @@
+url: "puida.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Resolvendo Problemas com Python" # the name of your site, e.g. ACME Corp.
+
+exclude: ["Gemfile", "Gemfile.lock", "README.md", "start"]
+
+markdown: kramdown
+
+kramdown:
+  math_engine: katex
