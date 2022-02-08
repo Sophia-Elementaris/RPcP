@@ -4,6 +4,13 @@ title: "Resolvendo Problemas com Python" # the name of your site, e.g. ACME Corp
 
 exclude: ["Gemfile", "Gemfile.lock", "README.md", "start"]
 
+# collections:
+#   book:
+#     output: true
+#     permalink: /:collection/:name
+
+permalink: pretty
+
 markdown: kramdown
 
 kramdown:
